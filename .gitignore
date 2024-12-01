@@ -1,0 +1,14 @@
+# Rust 빌드 디렉터리
+/target
+
+# Cargo.lock (필요한 경우 제외 가능)
+Cargo.lock
+
+# 디버그 파일
+*.log
+*.rs.bk
+*.swp
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
